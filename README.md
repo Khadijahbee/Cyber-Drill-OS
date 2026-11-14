@@ -5,7 +5,7 @@ Frontend (retro CRT arcade terminal) + backend (scoring, timer, progress, valida
 ## Run in VS Code
 1. File > Open Folder... and choose this `CyberDrill` folder.
 2. Open the terminal (Ctrl+`) and run `npm start` (or press Ctrl+Shift+B).
-3. Open http://localhost:3000. The game is served by the same server.
+3. Open (https://cyber-trainee.bonto.page/). The game is served by the same server.
 
 Requires Node.js 20+. There is nothing to install (no dependencies). Run `npm test` for the 16 backend tests.
 
