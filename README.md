@@ -87,6 +87,10 @@ npm start
 
 Then open https://cyber-trainee.bonto.page/ in your browser.
 
+## About the hackathon
+
+CyberDrill was built by team Ctrl Freaks for a hackathon held by Xems Technologies, where it placed as runner-up (2nd place).
+
 ## Team
 
 Built during a hackathon by **Ctrl Freaks**.
