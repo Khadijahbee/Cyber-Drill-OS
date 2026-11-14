@@ -24,7 +24,7 @@ CyberDrill/
 - On load it creates a player automatically and keeps the token in `localStorage` (`cd_token`).
 - Incidents, the 60 s timer, hints, scoring and feedback all come from the API. The server is the source of truth for time and score.
 - Offline fallback: if the server is not reachable (for example you double-click `public/index.html`), the boot screen says `OFFLINE (LOCAL MODE)` and the original built-in incidents are used.
-- Using VS Code Live Server (port 5500) also works: the frontend then calls http://localhost:3000, so the backend must be running.
+- Using VS Code Live Server (port 5500) also works: the frontend then calls https://cyber-trainee.bonto.page, so the backend must be running.
 - To reset your progress: delete `data/db.json` and clear the site's localStorage.
 
 Original frontend notes are in `public/FRONTEND_README.md`. The backend documentation follows.
