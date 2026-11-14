@@ -99,4 +99,4 @@ Built during a hackathon by **Ctrl Freaks**.
 
 ## License
 
-MIT License. See the [LICENSE](LICENSE) file.
+Copyright (c) 2026 Khadijah Shafiq, Malaika Asim, Afreen Fiaz. All rights reserved.
