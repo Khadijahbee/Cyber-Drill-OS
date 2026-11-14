@@ -89,7 +89,7 @@ Then open https://cyber-trainee.bonto.page/ in your browser.
 
 ## About the hackathon
 
-CyberDrill was built by team Ctrl Freaks for a hackathon held by Xems Technologies, where it placed as runner-up (2nd place).
+CyberDrill was built by team Ctrl Freaks for the **Byte & Bite AI Tools Hackathon**, part of the **SAFE MODE Cybersecurity Workshop** organized by XEMS Technologies in collaboration with Daftarkhwan. It placed as runner-up (2nd place).
 
 ## Team
 
